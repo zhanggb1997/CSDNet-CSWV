@@ -7,8 +7,8 @@
 + [CSD-Net](#CSD-Net)
 + [Requirements](#Requirements)
 + [Setup](#Setup)
-+ [CSWV dataset](#CSWV)
-+ [Dataset Access](#Dataset)
++ [CSWV](#CSWV)
++ [Dataset Access](#DatasetAccess)
 + [Citation](#Citation)
 
 
